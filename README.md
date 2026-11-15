@@ -72,7 +72,7 @@ Reown Cloud). QoreX and injected browser wallets do not need it.
 ## Networks
 
 | Chain | Id | RPC |
-| --- | --- |
+| --- | --- | --- |
 | `qorechainTestnet` | 9800 | `https://evm-testnet.qore.host` |
 | `qorechain` | 9801 | `https://evm.qore.host` |
 
