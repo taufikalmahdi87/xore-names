@@ -1,0 +1,6 @@
+# Netlify proxy for the QoreChain REST APIs (they send no CORS headers, so the
+# browser cannot call them directly). The app uses the relative /lcd-testnet
+# and /lcd-mainnet paths (see REST_PROXY in src/App.tsx); the local dev and
+# preview servers proxy the same paths (see vite.config.ts).
+/lcd-testnet/*  https://api-testnet.qore.host/:splat  200
+/lcd-mainnet/*  https://api.qore.host/:splat  200

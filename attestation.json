@@ -1,0 +1,13 @@
+{
+  "project": "Qore Names",
+  "network": "qorechain-diana",
+  "chainId": 9800,
+  "contract": "0x0d33cf271fc94f64a66c4c0f3f3787f171e4bc82",
+  "deployTx": "0x1b64d3f94e97b31eff30c497a91aeb6627cedcc07c8f8fcae77457e08f4b3066",
+  "testName": "museng-test",
+  "testNameTx": "0x753120e436216740529aae8d1ec6bf08e1e1b2eff88edc3656cfa269c1f46746",
+  "testNameOwner": "0x66d6717eB2e3fA43e403b59e7d7fC87F8812C27d",
+  "deployerNative": "qor1vmt8zl4ju0ay8eqrkk086l7g07yp9snakcnze3",
+  "deployerEvm": "0x66d6717eB2e3fA43e403b59e7d7fC87F8812C27d",
+  "explorer": "https://explore.qore.network/tx/0x753120e436216740529aae8d1ec6bf08e1e1b2eff88edc3656cfa269c1f46746"
+}

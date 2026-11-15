@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.deployer.json
+cache/
+out/
+*.log
